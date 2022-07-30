@@ -1,0 +1,2 @@
+BaseUrl=https://www.tide.com/
+chromepath=./Driver/chromedriver.exe
